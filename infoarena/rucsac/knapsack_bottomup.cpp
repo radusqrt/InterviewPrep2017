@@ -1,4 +1,4 @@
-// Knapsack - bottom-up
+// Knapsack - bottom-up - 100p
 #include <iostream>
 #include <fstream>
 
